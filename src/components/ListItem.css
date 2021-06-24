@@ -29,3 +29,18 @@
     font-size: 18px;
     outline: none;
 }
+.delete{
+    background-color: #f71a2c;
+    border: none;
+    margin-left: 3px;
+    border-radius: 5px;
+    /* color: white; */
+}
+.edit{
+    background-color: #bfff1d;
+    border-radius: 5px;
+    border: none;
+    margin-right: 3px;
+    /* color: white; */
+    
+}
